@@ -64,3 +64,24 @@ code {
   background-color:rgb(218, 201, 181);
 }
 
+.main-image-div {
+  display: flex;
+  justify-content: center;
+  margin: 18px 18px 0px 18px;
+}
+
+.image-div {
+  
+  /* margin-top: 18px; */
+  /* height: 216px; */
+  height: 432px;
+  /* width: 199px; */
+  width: 398px;
+  /* border: 12px solid red;  */
+
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
