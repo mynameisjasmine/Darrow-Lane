@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import '../index.css';
 import Search from './Search';
+import Banner from './Banner';
 
 const Navigation = () => {
     return (
@@ -38,6 +39,8 @@ const Navigation = () => {
         <div>
           <Search />
         </div>
+        {/* <div><Banner /></div> */}
+        
       </div>
     )
 }

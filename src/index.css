@@ -60,13 +60,17 @@ code {
   top: 4px;
   right: 2px;
   height: 22px;
-  width: 54px;
+  width: 34px;
   background-color:rgb(218, 201, 181);
 }
 
+/* .container {
+ border: 2px solid red;
+} */
+
 .main-image-div {
   display: flex;
-  justify-content: center;
+  /* justify-content: center; */
   margin: 18px 18px 0px 18px;
 }
 
@@ -85,3 +89,10 @@ img {
   height: 100%;
   width: 100%;
 }
+
+.banner {
+  /* border: 2px solid green; */
+  margin-top: 8px;
+  height: 297.45px;
+}
+
