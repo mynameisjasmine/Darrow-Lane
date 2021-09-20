@@ -110,7 +110,7 @@ img {
   /* flex-wrap: wrap; */
   margin: 18px 88px 0px 88px;
   height: 432px;
-  border: 2px solid red;
+  /* border: 2px solid red; */
   justify-content: space-evenly;
   
 }
@@ -123,10 +123,23 @@ img {
   border: .7px solid rgb(236, 228, 228);
 }
 
+.bag {
+  width: 329px;
+  /* border: 2px solid green; */
+}
+
+.mod8 {
+  width: 364px;
+  position: relative;
+  left: -1px;
+  /* border: 2px solid green; */
+}
+
 .shoes {
   position:relative;
-  left: 3px;
-  width: 339.5px;
+  left: 1px;
+  width: 338px;
+  /* border: 2px solid green; */
 
 }
 

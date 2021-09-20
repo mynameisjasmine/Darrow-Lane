@@ -26,8 +26,8 @@ const DarrowLane = () => {
           </div>
 
         <div className='middle-image-div'>
-         <div className='mods bag shoes'><img src={'./assets/bag1.3.png'} alt=''/></div>
-         <div className='mods mod8 shoes'><img src={'./assets/mod8.2.png'} alt=''/></div>
+         <div className='mods bag '><img src={'./assets/bag1.3.png'} alt=''/></div>
+         <div className='mods mod8 '><img src={'./assets/mod8.2.png'} alt=''/></div>
          <div className='mods shoes'><img src={'./assets/shoes1.3.png'} alt=''/></div>
           </div>
      </div>
