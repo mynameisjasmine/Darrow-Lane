@@ -88,6 +88,7 @@ code {
 img {
   height: 100%;
   width: 100%;
+  /* border: 2px solid green; */
 }
 
 .banner {
@@ -109,22 +110,27 @@ img {
   /* flex-wrap: wrap; */
   margin: 18px 88px 0px 88px;
   height: 432px;
-  /* width: 2000px; */
+  border: 2px solid red;
+  justify-content: space-evenly;
+  
 }
 
-.mods {
+/* .mods {
   margin-right: 58px;
-}
+} */
 
 .mod7 {
   border: .7px solid rgb(236, 228, 228);
 }
 
-.bag {
-  width: 334px;
+.shoes {
+  position:relative;
+  left: 3px;
+  width: 339.5px;
+
 }
 
-.mod8 {
-  width: 362px;
-  margin-left: -7px;
-}
+
+
+
+

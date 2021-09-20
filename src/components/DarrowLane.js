@@ -16,19 +16,20 @@ const DarrowLane = () => {
         <div>
         <Banner />
         </div>
+
         <p className='trends'>Fall Trends</p>
         
         <div className='middle-image-div'>
          <div className='mods'><img src={'./assets/mod5.png'} alt=''/></div>
          <div className='mods'><img src={'./assets/mod6.png'} alt=''/></div>
          <div className='mods mod7'><img src={'./assets/mod7.png'} alt=''/></div>
-         
-        </div>
+          </div>
+
         <div className='middle-image-div'>
-         <div className='mods bag'><img src={'./assets/bag1.png'} alt=''/></div>
-         <div className='mods mod8'><img src={'./assets/mod8.png'} alt=''/></div>
-         <div className='mods'><img src={'./assets/shoes1.png'} alt=''/></div>
-         </div>
+         <div className='mods bag shoes'><img src={'./assets/bag1.3.png'} alt=''/></div>
+         <div className='mods mod8 shoes'><img src={'./assets/mod8.2.png'} alt=''/></div>
+         <div className='mods shoes'><img src={'./assets/shoes1.3.png'} alt=''/></div>
+          </div>
      </div>
     )
 }
