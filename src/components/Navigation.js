@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import '../index.css';
 import Search from './Search';
+import Banner from './Banner';
 
 const Navigation = () => {
     return (
@@ -9,7 +10,9 @@ const Navigation = () => {
       <div className='nav-bar'>
         
          <div>
-        <Link to='/' className='link' style={{position: 'relative', right: 78 }}>DARROW LANE</Link>
+        {/* <Link to='/' className='link' style={{position: 'relative', right: 78}}>DARROW LANE</Link> */}
+        <Link to='/' className='link' style={{position: 'relative', right: 58}}><img src='../assets/darrow.png'/></Link>
+
          </div>
 
          <div>
@@ -38,6 +41,8 @@ const Navigation = () => {
         <div>
           <Search />
         </div>
+        {/* <div><Banner /></div> */}
+        
       </div>
     )
 }
