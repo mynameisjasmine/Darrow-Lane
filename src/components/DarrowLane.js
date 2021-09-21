@@ -29,6 +29,16 @@ const DarrowLane = () => {
          <div className='mods bag '><img src={'./assets/bag1.3.png'} alt=''/></div>
          <div className='mods mod8 '><img src={'./assets/mod8.2.png'} alt=''/></div>
          <div className='mods shoes'><img src={'./assets/shoes1.3.png'} alt=''/></div>
+         
+          </div>
+          <div className='acc-image-div'>
+          <div className='mod9'><img src={'./assets/mod9.png'} alt=''/></div>
+          </div>
+          <div className='complete-div'>
+              {/* <div className='complete'><img src={'./assets/complete.png'} alt=''/></div> */}
+              <p className='text'>COMPLETE THE</p>
+              
+              <p className='text look'>LOOK</p>
           </div>
      </div>
     )

@@ -143,6 +143,48 @@ img {
 
 }
 
+.acc-image-div {
+  /* border: 2px solid green; */
+  margin-top: 250px;
+  
+}
+
+.mod9 {
+  /* border: 2px solid red; */
+  /* margin-top: 250px; */
+  width: 1270px;
+  height: 700px;
+  
+}
+
+.complete-div {
+  /* display: flex;
+  flex-wrap: wrap; */
+  text-align: center;
+  /* border: 2px solid red; */
+  position: relative; 
+  top: -580px;
+  left: 680px;
+  width: 428px;
+}
+
+.text {
+  color: white;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 45px;
+  text-shadow: 2px 10px 8px rgb(70, 62, 62);
+}
+
+.look {
+  /* border: 2px solid green; */
+  margin-top: -33px;
+  position: relative;
+  left: 30px;
+  
+}
+
+
+
 
 
 
