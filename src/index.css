@@ -183,6 +183,19 @@ img {
   
 }
 
+.acc-button {
+  position: relative; 
+  top: -580px;
+  left: 820px;
+  height: 40px;
+  border: #AA704F;
+  background-color: #AA704F;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  box-shadow: 7px 5px 4px rgb(122, 116, 116);
+}
+
 
 
 

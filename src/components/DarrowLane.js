@@ -32,14 +32,14 @@ const DarrowLane = () => {
          
           </div>
           <div className='acc-image-div'>
-          <div className='mod9'><img src={'./assets/mod9.png'} alt=''/></div>
+          <div className='mod9'><img src={'./assets/mod9.2.png'} alt=''/></div>
           </div>
           <div className='complete-div'>
-              {/* <div className='complete'><img src={'./assets/complete.png'} alt=''/></div> */}
               <p className='text'>COMPLETE THE</p>
               
               <p className='text look'>LOOK</p>
           </div>
+          <button className='acc-button'>SHOP ACCESSORIES {'>'}{'>'}</button>
      </div>
     )
 }
