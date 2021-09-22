@@ -196,6 +196,25 @@ img {
   box-shadow: 7px 5px 4px rgb(122, 116, 116);
 }
 
+.new {
+  margin-top: -50px;
+  /* border: 2px solid green; */
+}
+
+.final-image-div {
+  display: flex;
+}
+
+.mod10 {
+  width: 539px;
+  height: 609px;
+  margin: 130px 0px 0px 118px;
+}
+
+.mod11 {
+  width: 557px;
+}
+
 
 
 
