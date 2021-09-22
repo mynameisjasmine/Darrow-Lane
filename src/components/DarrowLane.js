@@ -40,6 +40,13 @@ const DarrowLane = () => {
               <p className='text look'>LOOK</p>
           </div>
           <button className='acc-button'>SHOP ACCESSORIES {'>'}{'>'}</button>
+
+          <p className='trends new'>New Arrivals</p>
+
+          <div className='final-image-div'>
+              <div className='mod10'><img src={'./assets/mod10.png'}/></div>
+              <div className='mod11'><img src={'./assets/mod11.png'}/></div>
+          </div>
      </div>
     )
 }
