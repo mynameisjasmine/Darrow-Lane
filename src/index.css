@@ -203,6 +203,7 @@ img {
 
 .final-image-div {
   display: flex;
+  /* border: 2px solid green;  */
 }
 
 .mod10 {
@@ -212,7 +213,10 @@ img {
 }
 
 .mod11 {
+  position: relative;
+  top: 239px;
   width: 557px;
+  height: 500px;
 }
 
 
