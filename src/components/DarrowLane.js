@@ -5,7 +5,7 @@ const DarrowLane = () => {
     return (
     <div className='container'>
         <div className='main-image-div'>
-        {/* <h1>DarrowLane Component</h1> */}
+        
             <div className='image-div'><img src={'./assets/mod1.png'} alt='woman wearing hat'/></div>
             <div className='image-div'><img src={'./assets/mod2.png'} alt='man with hair twists wearing gray jacket'/></div>
             <div className='image-div'><img src={'./assets/mod3.png'} alt='woman wearing shirt with skeletal hand peace sign'/></div>
@@ -13,6 +13,15 @@ const DarrowLane = () => {
             
         </div>
 
+        <div className='ready-div'>
+         <p className='ready-text'>Ready for Fall?</p>
+         <p className='latest-text'>Check out the latest styles</p>
+         <p className='fall-text'>for your fall wardrobe</p>
+           </div> 
+        
+        <div className='top-shop-div'>
+         <p className='top-shop-text'>SHOP {'>'}{'>'}</p>
+        </div>
         <div>
         <Banner />
         </div>
