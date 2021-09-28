@@ -304,6 +304,26 @@ img {
   
 }
 
+.list-div {
+  display: flex;
+  justify-content: space-evenly;
+  /* position: fixed;
+  left: 0;
+  bottom: 0;
+  right: 0; */
+}
+
+
+
+.list {
+  list-style: none;
+}
+
+.list-header {
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
 
 
 
