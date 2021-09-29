@@ -2,8 +2,10 @@ import React from 'react';
 
 const Men = () => {
  return (
-    
- <h1>Men Component</h1>
+   <div className='container'>
+    <h1>Men Component</h1>
+   </div> 
+ 
  )
 }
 

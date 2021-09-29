@@ -3,8 +3,10 @@ import '../index.css';
 
 const About = () => {
     return (
-
-    <h1>About Component</h1>
+   <div className='container'>
+   <h1>About Component</h1>
+   </div>
+    
     
     )
 }
