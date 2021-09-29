@@ -1,5 +1,6 @@
 import React from 'react';
 import Banner from './Banner';
+// import Footer from './Footer';
 
 const DarrowLane = () => {
     return (
@@ -66,6 +67,7 @@ const DarrowLane = () => {
             <p className='shop-text'>SHOP NOW {'>'}{'>'}</p>
           </div>
           
+          {/* <Footer /> */}
      </div>
     )
 }

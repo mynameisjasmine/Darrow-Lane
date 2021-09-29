@@ -4,6 +4,7 @@ const Footer = () => {
     return (
         <div className='list-div'>
         
+        
          <ul className='list'>
             <li className='list-header'>SUPPORT</li>
             <li>FAQs</li>
