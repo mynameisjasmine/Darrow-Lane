@@ -1,5 +1,7 @@
 body {
   margin: 0;
+  position: relative;
+  min-height: 100vh;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -64,9 +66,11 @@ code {
   background-color:rgb(218, 201, 181);
 }
 
-/* .container {
- border: 2px solid red;
-} */
+.container {
+  padding-bottom: 2.5rem;
+ /* position: relative;
+ min-height: 100vh; */
+}
 
 .main-image-div {
   display: flex;
@@ -307,6 +311,10 @@ img {
 .list-div {
   display: flex;
   justify-content: space-evenly;
+  background-color: #433E3E;
+  /* border: 2px solid blue; */
+  color: white;
+  padding: 15px;
   /* position: fixed;
   left: 0;
   bottom: 0;
@@ -322,6 +330,13 @@ img {
 .list-header {
   font-weight: bold;
   margin-bottom: 15px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
 }
 
 
