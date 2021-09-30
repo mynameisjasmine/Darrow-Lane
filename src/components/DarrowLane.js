@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import Banner from './Banner';
 // import Footer from './Footer';
 
@@ -16,13 +17,13 @@ const DarrowLane = () => {
 
         <div className='ready-div'>
          <p className='ready-text'>Ready for Fall?</p>
-         <p className='latest-text'>Check out the latest styles</p>
+         <p className='latest-text'>Check out the latest sales</p>
          <p className='fall-text'>for your fall wardrobe</p>
            </div> 
         
-        <div className='top-shop-div'>
-         <p className='top-shop-text'>SHOP {'>'}{'>'}</p>
-        </div>
+        
+         <Link to='/sale'><button type='button' className=' top-shop-button'>SHOP {'>'}{'>'}</button></Link>
+        
         <div>
         <Banner />
         </div>
@@ -49,7 +50,7 @@ const DarrowLane = () => {
               
               <p className='text look'>LOOK</p>
           </div>
-          <button className='acc-button'>SHOP ACCESSORIES {'>'}{'>'}</button>
+          <Link to='/accessories'><button  type='button'className='acc-button'>SHOP ACCESSORIES {'>'}{'>'}</button></Link>
 
           <p className='trends new'>New Arrivals</p>
 

@@ -91,19 +91,19 @@ code {
 
 .ready-div {
   position:relative;
-  top: -200px;
+  top: -150px;
   left: 585px;
   border: 1px solid lightgray;
   background: white;
   box-shadow: 4px 9px 4px rgb(66, 63, 63);
   width: 297px;
-  height: 211px;
+  height: 200px;
   text-align: center;
 
 }
 
 .ready-text {
-  margin-top: 40px;
+  margin-top: 30px;
   font-size: 20px;
   font-weight: bold;
 }
@@ -113,22 +113,27 @@ code {
   margin: 40px 0px -12px 0px;
 }
 
-.top-shop-div {
+.top-shop-button {
   position: relative;
-  top: -250px;
+  top: -195px;
   left: 670px;
   text-align: center;
-  background-color: black;
-  width: 160px;
-  height: 60px;
-}
-
-.top-shop-text {
   color: white;
   font-size: 19px;
   font-weight: bold;
   padding-top: 15px;
+  background-color: black;
+  width: 160px;
+  height: 70px;
+  
 }
+
+/* .top-shop-text {
+  color: white;
+  font-size: 19px;
+  font-weight: bold;
+  padding-top: 15px;
+} */
 
 
 img {
@@ -217,7 +222,7 @@ img {
 .text {
   color: white;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  font-size: 45px;
+  font-size: 55px;
   text-shadow: 2px 10px 8px rgb(70, 62, 62);
 }
 
@@ -233,7 +238,8 @@ img {
   position: relative; 
   top: -580px;
   left: 820px;
-  height: 40px;
+  height: 50px;
+  padding: 15px;
   border: #AA704F;
   background-color: #AA704F;
   color: white;
@@ -297,7 +303,7 @@ img {
   text-align: center;
   background-color: #3C3539;
   width: 160px;
-  height: 60px;
+  height: 50px;
 }
 
 .shop-text {
