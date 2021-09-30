@@ -40,6 +40,10 @@ code {
   
 }
 
+.link:hover {
+  filter: brightness(0.7);
+}
+
 .link:focus {
   color: black;
   
@@ -115,15 +119,15 @@ code {
 
 .top-shop-button {
   position: relative;
-  top: -195px;
-  left: 670px;
+  top: -180px;
+  left: 660px;
   text-align: center;
   color: white;
   font-size: 19px;
   font-weight: bold;
   padding-top: 15px;
   background-color: black;
-  width: 160px;
+  width: 195px;
   height: 70px;
   
 }
