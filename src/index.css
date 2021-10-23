@@ -342,6 +342,48 @@ img {
   margin-bottom: 15px;
 }
 
+.mens-main {
+  display: flex;
+}
+
+.men-title {
+  /* border: 2px solid red; */
+  margin: 50px 0 0 60px;
+  font-size: 26px;
+}
+
+.question-div {
+  /* border: 2px solid red; */
+  margin: 140px 0 0 289px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.mens-pic-div {
+  /* border: 2px solid red; */
+  display: flex;
+  margin: 50px 0 0 140px;
+  justify-content:space-evenly;
+  
+}
+
+.circle-pic {
+  width: 195px;
+  margin-right: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.mensmenu {
+  border-top: 2px solid lightgray;
+  width: 150px;
+  margin: 70px 0 0 25px;
+}
+.m-clothing-text {
+  font-weight: bold;
+  margin:40px 0 40px 0;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
