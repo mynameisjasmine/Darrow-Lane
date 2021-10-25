@@ -29,6 +29,13 @@ const Men = () => {
       <div className='circle-pic'><img src={'./assets/blazers.png'}/>Blazers</div>
       <div className='circle-pic'><img src={'./assets/sock.png'}/>Socks</div>
       </div>
+
+      <div className='fit-div'>Keeping fit while being fashionable </div>
+
+      <div className='mens-active-parent'>
+        <div className='mens-active-div'><img src={'./assets/mainmensactive.jpg'}/>Activewear</div>
+        <div className='mens-active-div'><img src={'./assets/mainmensshoes.jpg'}/>Sneakers & Dress Shoes</div>
+      </div>
     </div>
     </div>
 
