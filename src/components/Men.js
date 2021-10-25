@@ -43,6 +43,13 @@ const Men = () => {
         <div className='mens-active-div'><img src={'./assets/mainmensactive.jpg'}/>Activewear</div>
         <div className='mens-active-div'><img src={'./assets/mainmensshoes.jpg'}/>Sneakers & Dress Shoes</div>
       </div>
+       <div className='style-text'>Ready, Set, Style!</div>
+      <div className='mens-bottom-div'>
+       <div className='bottom-div-pics'><img src={'./assets/menslounge.png'}/>Casual Weekends</div>
+       <div className='bottom-div-pics'><img src={'./assets/menswhitetee.jpg'}/>The Perfect White Tee</div>
+       <div className='bottom-div-pics'><img src={'./assets/mensouterwear.jpg'}/>Men's Outerwear</div>
+       <div className='bottom-last-div-pic'><img src={'./assets/menscasual.jpg'}/>Business Casual Style</div>
+      </div>
     </div>
     </div>
 
