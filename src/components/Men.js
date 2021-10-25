@@ -8,15 +8,22 @@ const Men = () => {
       
     <div className='mensmenu'>
      <p className='m-clothing-text'>Men's Clothing</p>
-     <p>Shirts</p>
-     <p>Pants</p>
-     <p>Blazers</p>
-     <p>Socks</p>
-     <p>Active Tops</p>
-     <p>Active Bottoms</p>
-     <p>Sneakers</p>
-     <p>Dress Shoes</p>
-    </div>
+     <p className='mens-menu-text'>Shirts</p>
+     <p className='mens-menu-text'>Pants</p>
+     <p className='mens-menu-text'>Blazers</p>
+     <p className='mens-menu-text'>Socks</p>
+     <p className='mens-menu-text'>Active Tops</p>
+     <p className='mens-menu-text'>Active Bottoms</p>
+
+     <div className='m-shoes-div'>
+     <p className='m-shoes-text'>Men's Shoes</p>
+     <p className='mens-menu-text'>Sneakers</p>
+     <p className='mens-menu-text'>Dress Shoes</p>
+     <p className='mens-menu-text'>Loafers</p>
+      </div>
+
+     </div>
+     
 
     <div className='men-title'>MEN</div>
 

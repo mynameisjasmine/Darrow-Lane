@@ -379,7 +379,7 @@ img {
 }
 
 .fit-div {
-  margin-top: 300px;
+  margin-top: 200px;
   text-align: center;
   font-size: 25px;
   font-weight: bold;
@@ -402,12 +402,29 @@ img {
   border-top: 2px solid lightgray;
   border-bottom: 2px solid lightgray;
   width: 150px;
-  height: 400px;
+  height: 430px;
   margin: 70px 0 0 25px;
+}
+
+.mens-menu-text {
+  margin-bottom: 40px;
 }
 .m-clothing-text {
   font-weight: bold;
   margin:40px 0 40px 0;
+}
+
+.m-shoes-div {
+  margin:40px 0 90px 0;
+  height: 220px;
+  border-bottom: 2px solid lightgray;
+}
+
+.m-shoes-text {
+  /* border: 2px solid red; */
+  font-weight: bold;
+  margin: 65px 0 40px 0;
+  
 }
 
 .footer {
