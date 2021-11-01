@@ -457,6 +457,86 @@ img {
   
 }
 
+.womens-main {
+  display: flex;
+}
+
+.women-title {
+  /* border: 2px solid red; */
+  margin: 50px 0 0 60px;
+  font-size: 26px;
+}
+
+.w-question-div {
+  /* border: 2px solid red; */
+  margin: 140px 0 0 280px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.womens-pic-div {
+  /* border: 2px solid red; */
+  display: flex;
+  margin: 50px 0 0 70px;
+  justify-content:space-evenly;
+  
+}
+
+.womensmenu {
+  border-top: 2px solid lightgray;
+  border-bottom: 2px solid lightgray;
+  width: 150px;
+  height: 430px;
+  margin: 70px 0 0 25px;
+}
+
+.womens-menu-text {
+  margin-bottom: 40px;
+}
+
+.w-clothing-text {
+  font-weight: bold;
+  margin:40px 0 40px 0;
+}
+
+.w-shoes-div {
+  margin:40px 0 90px 0;
+  height: 220px;
+  border-bottom: 2px solid lightgray;
+}
+
+.w-shoes-text {
+  /* border: 2px solid red; */
+  font-weight: bold;
+  margin: 65px 0 40px 0;
+  
+}
+
+.womens-active-parent {
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: space-between;
+}
+
+.womens-active-div {
+  margin: 30px 0 50px 0;
+  width: 380px;
+  height: 540px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.womens-bottom-div {
+  /* border: 2px solid red; */
+  display: flex;
+  width: 1000px;
+  height: 350px;
+  margin: 35px 0 160px 0;
+  text-align: center;
+  font-weight: bold;
+}
+
+
 .footer {
   position: absolute;
   bottom: 0;
