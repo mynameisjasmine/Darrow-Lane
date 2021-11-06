@@ -2,8 +2,6 @@ import React from 'react';
 import './App.css';
 import './index.css'
 import Navigation from './components/Navigation';
-import DarrowLane from './components/DarrowLane';
-import Banner from './components/Banner';
 import Footer from './components/Footer';
 
 
