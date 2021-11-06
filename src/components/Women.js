@@ -29,24 +29,24 @@ const Women = () => {
       <div className='w-question-div'>WHAT ARE YOU SHOPPING FOR TODAY?</div>
 
       <div className='womens-pic-div'>
-      <div className='circle-pic'><img src={'./assets/womenstop.png'}/>Tops</div>
-      <div className='circle-pic'><img src={'./assets/womenjeans.png'}/>Jeans</div>
-      <div className='circle-pic'><img src={'./assets/womensweater.png'}/>Sweaters</div>
-      <div className='circle-pic'><img src={'./assets/womensdress.png'}/>Dresses</div>
+      <div className='circle-pic'><img src={'./assets/womenstop.png'} alt='blouses'/>Tops</div>
+      <div className='circle-pic'><img src={'./assets/womenjeans.png'} alt='jeans'/>Jeans</div>
+      <div className='circle-pic'><img src={'./assets/womensweater.png'} alt='sweaters'/>Sweaters</div>
+      <div className='circle-pic'><img src={'./assets/womensdress.png'} alt='dresses'/>Dresses</div>
       </div>
 
       <div className='fit-div'>Shop this season's bestsellers </div>
 
       <div className='womens-active-parent'>
-        <div className='womens-active-div'><img src={'./assets/bestseller1.jpg'}/>Stay fashionably warm</div>
-        <div className='womens-active-div'><img src={'./assets/bestseller2.jpg'}/>Layering wardrobe essentials</div>
+        <div className='womens-active-div'><img src={'./assets/bestseller1.jpg'} alt='woman wearing gray coat'/>Stay fashionably warm</div>
+        <div className='womens-active-div'><img src={'./assets/bestseller2.jpg'} alt='woman in pink and gray outfit'/>Layering wardrobe essentials</div>
       </div>
-       <div className='style-text'>Ready, Set, Style!</div>
+       <div className='style-text'>Shop Your Aesthetic</div>
       <div className='womens-bottom-div'>
-       <div className='bottom-div-pics'><img src={'./assets/menslounge.png'}/>Casual Weekends</div>
-       <div className='bottom-div-pics'><img src={'./assets/menswhitetee.jpg'}/>The Perfect White Tee</div>
-       <div className='bottom-div-pics'><img src={'./assets/mensouterwear.jpg'}/>Men's Outerwear</div>
-       <div className='bottom-last-div-pic'><img src={'./assets/menscasual.jpg'}/>Business Casual Style</div>
+       <div className='bottom-div-pics'><img src={'./assets/womenweekend.jpg'} alt=''/>Weekend Vibes</div>
+       <div className='bottom-div-pics'><img src={'./assets/womenworkout.jpg'} alt=''/>Stay Fit and Stylish</div>
+       <div className='bottom-div-pics'><img src={'./assets/womenbags.jpg'} alt=''/>Purses and Bags</div>
+       <div className='bottom-last-div-pic'><img src={'./assets/womenbusiness.jpg'} alt=''/>Business Style</div>
       </div>
     </div>
       </div>

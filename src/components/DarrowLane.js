@@ -55,8 +55,8 @@ const DarrowLane = () => {
           <p className='trends new'>New Arrivals</p>
 
           <div className='final-image-div'>
-              <div className='mod10'><img src={'./assets/mod10.png'}/></div>
-              <div className='mod11'><img src={'./assets/mod11.png'}/></div>
+              <div className='mod10'><img src={'./assets/mod10.png'} alt=''/></div>
+              <div className='mod11'><img src={'./assets/mod11.png'} alt=''/></div>
               
           </div>
           <div className='items-div'>

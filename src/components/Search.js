@@ -14,7 +14,7 @@ const Search = () => {
           placeholder='search here...'
           name='s'
           />
-          <button type='submit' className='button'><img src={'./assets/loupe.png'}/></button>
+          <button type='submit' className='button'><img src={'./assets/loupe.png'} alt=''/></button>
         </form>
         
     )
