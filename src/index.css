@@ -551,7 +551,7 @@ img {
 
 .acc-question-div {
   /* border: 2px solid red; */
-  margin: 140px 0 0 280px;
+  margin: 140px 0 0 220px;
   font-size: 20px;
   font-weight: bold;
 }
@@ -559,7 +559,7 @@ img {
 .acc-pic-div {
   /* border: 2px solid red; */
   display: flex;
-  margin: 50px 0 0 70px;
+  margin: 50px 0 0 -30px;
   justify-content:space-evenly;
   
 }
@@ -597,6 +597,7 @@ img {
 
 .acc-active-parent {
   /* border: 2px solid red; */
+  /* margin-left: -22px; */
   display: flex;
   justify-content: space-between;
 }
@@ -607,6 +608,30 @@ img {
   height: 540px;
   text-align: center;
   font-weight: bold;
+}
+
+.purse-div {
+  /* border: 2px solid red; */
+  margin-left: -28px;
+}
+
+.scarf-div {
+  margin-right: 72px;
+}
+
+.acc-bottom-div {
+  /* border: 2px solid red; */
+  display: flex;
+  width: 1000px;
+  height: 350px;
+  margin: 35px 0 160px 0;
+  text-align: center;
+  font-weight: bold;
+}
+
+.acc-hat-div {
+  /* border: 2px solid red; */
+  margin-left: -70px;
 }
 
 
