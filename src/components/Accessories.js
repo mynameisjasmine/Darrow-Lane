@@ -39,15 +39,15 @@ const Accessories = () => {
       <div className='fit-div'>Shop this season's hottest color </div>
 
       <div className='acc-active-parent'>
-        <div className='acc-active-div'><img src={'./assets/accshirt.jpg'} alt='woman wearing red shirt'/>May your days be merry and bright</div>
-        <div className='acc-active-div'><img src={'./assets/accredpurse.jpg'} alt='woman in pink and gray outfit'/>Layering wardrobe essentials</div>
+        <div className='acc-active-div purse-div'><img src={'./assets/accpurse.jpg'} alt='red purse'/>May your days be merry and bright</div>
+        <div className='acc-active-div scarf-div'><img src={'./assets/accscarf.jpg'} alt='woman in red and orange scarf'/>Cold weather essentials</div>
       </div>
-       <div className='style-text'>Shop Your Aesthetic</div>
-      <div className='womens-bottom-div'>
-       <div className='bottom-div-pics'><img src={'./assets/womenweekend.jpg'} alt=''/>Weekend Vibes</div>
-       <div className='bottom-div-pics'><img src={'./assets/womenworkout.jpg'} alt=''/>Stay Fit and Stylish</div>
-       <div className='bottom-div-pics'><img src={'./assets/womenbags.jpg'} alt=''/>Purses and Bags</div>
-       <div className='bottom-last-div-pic'><img src={'./assets/womenbusiness.jpg'} alt=''/>Business Style</div>
+       <div className='style-text'>Treat yourself to these items on sale</div>
+      <div className='acc-bottom-div'>
+       <div className='bottom-div-pics acc-hat-div'><img src={'./assets/acchats.jpg'} alt='knit hats'/>Baby it's cold outside</div>
+       <div className='bottom-div-pics'><img src={'./assets/acc-socks.jpg'} alt='holiday socks'/>A cozy pair</div>
+       <div className='bottom-div-pics'><img src={'./assets/acc-glasses.jpg'} alt='woman wearing sunglasses'/>Sunglasses on sale</div>
+       <div className='bottom-last-div-pic'><img src={'./assets/acc-hair.jpg'} alt='woman wearing hair barrette'/>Save on hair accessories</div>
       </div>
     </div>
       </div>
