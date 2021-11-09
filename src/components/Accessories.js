@@ -45,9 +45,9 @@ const Accessories = () => {
        <div className='style-text'>Treat yourself to these items on sale</div>
       <div className='acc-bottom-div'>
        <div className='bottom-div-pics acc-hat-div'><img src={'./assets/acchats.jpg'} alt='knit hats'/>Baby it's cold outside</div>
-       <div className='bottom-div-pics'><img src={'./assets/acc-socks.jpg'} alt='holiday socks'/>A cozy pair</div>
-       <div className='bottom-div-pics'><img src={'./assets/acc-glasses.jpg'} alt='woman wearing sunglasses'/>Sunglasses on sale</div>
-       <div className='bottom-last-div-pic'><img src={'./assets/acc-hair.jpg'} alt='woman wearing hair barrette'/>Save on hair accessories</div>
+       <div className='bottom-div-pics acc-socks-div'><img src={'./assets/acc-socks.jpg'} alt='holiday socks'/>A cozy pair</div>
+       <div className='bottom-div-pics acc-glasses-div'><img src={'./assets/acc-glasses.jpg'} alt='woman wearing sunglasses'/>Sunglasses on sale</div>
+       <div className='bottom-last-div-pic acc-hair-div'><img src={'./assets/acc-hair.jpg'} alt='woman wearing hair barrette'/>Save on hair accessories</div>
       </div>
     </div>
       </div>
