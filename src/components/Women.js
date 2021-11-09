@@ -16,9 +16,12 @@ const Women = () => {
 
      <div className='w-shoes-div'>
      <p className='w-shoes-text'>Women's Shoes</p>
-     <p className='womens-menu-text'>Heels</p>
-     <p className='womens-menu-text'>Flats</p>
      <p className='womens-menu-text'>Boots</p>
+     <p className='womens-menu-text'>Heels</p>
+     <p className='womens-menu-text'>Evening & Wedding</p>
+     <p className='womens-menu-text'>Flats</p>
+     <p className='womens-menu-text'>Sandals</p>
+     <p className='womens-menu-text'>Slippers</p>
       </div>
 
      </div>
