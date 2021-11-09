@@ -631,7 +631,19 @@ img {
 
 .acc-hat-div {
   /* border: 2px solid red; */
-  margin-left: -70px;
+  margin-left: -90px;
+}
+
+.acc-socks-div {
+  margin-left: -20px;
+}
+
+.acc-glasses-div {
+  margin-left: -20px;
+}
+
+.acc-hair-div {
+  margin-right: 50px;
 }
 
 
