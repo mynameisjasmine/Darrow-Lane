@@ -36,11 +36,11 @@ const Shoes = () => {
         <div className='circle-pic'><img src={'./assets/w-flats.png'} alt='beige flat shoes'/>Flats</div>
         </div>
   
-        <div className='fit-div'>Keeping fit while being fashionable </div>
+        <div className='fit-div'>Shop our faves!</div>
   
         <div className='shoes-active-parent'>
-          <div className='shoes-active-div'><img src={'./assets/mainmensactive.jpg'} alt=''/>Activewear</div>
-          <div className='shoes-active-div'><img src={'./assets/mainmensshoes.jpg'} alt=''/>Sneakers & Dress Shoes</div>
+          <div className='shoes-active-div'><img src={'./assets/w-mainboots.jpg'} alt=''/>These shoes on sale will make you smile</div>
+          <div className='shoes-active-div'><img src={'./assets/weddingshoesmain.jpg'} alt=''/>Find shoes for wedding guests</div>
         </div>
          <div className='style-text'>Ready, Set, Style!</div>
         <div className='shoes-bottom-div'>
