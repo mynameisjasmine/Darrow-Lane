@@ -39,15 +39,15 @@ const Shoes = () => {
         <div className='fit-div'>Shop our faves!</div>
   
         <div className='shoes-active-parent'>
-          <div className='shoes-active-div'><img src={'./assets/w-mainboots.jpg'} alt=''/>These shoes on sale will make you smile</div>
-          <div className='shoes-active-div'><img src={'./assets/weddingshoesmain.jpg'} alt=''/>Find shoes for wedding guests</div>
+          <div className='shoes-active-div'><img src={'./assets/w-mainboots.jpg'} alt='two women smiling and lauging'/>These shoes on sale will make you smile</div>
+          <div className='shoes-active-div'><img src={'./assets/weddingshoesmain.jpg'} alt='embellished white and gold open toe heels'/>Find shoes for wedding guests</div>
         </div>
-         <div className='style-text'>Ready, Set, Style!</div>
+         <div className='style-text'>Shoes for every occasion</div>
         <div className='shoes-bottom-div'>
-         <div className='bottom-div-pics'><img src={'./assets/menslounge.png'} alt=''/>Casual Weekends</div>
-         <div className='bottom-div-pics'><img src={'./assets/menswhitetee.jpg'} alt=''/>The Perfect White Tee</div>
-         <div className='bottom-div-pics'><img src={'./assets/mensouterwear.jpg'} alt=''/>Men's Outerwear</div>
-         <div className='bottom-last-div-pic'><img src={'./assets/menscasual.jpg'} alt=''/>Business Casual Style</div>
+         <div className='bottom-div-pics'><img src={'./assets/w-loafershoes.jpg'} alt='woman wearing black loafers'/>Stylish and classic loafers </div>
+         <div className='bottom-div-pics'><img src={'./assets/w-sneakers.jpg'} alt='woman wearing red,black and blue nike sneakers'/>Shop athletic shoes</div>
+         <div className='bottom-div-pics'><img src={'./assets/w-blackboots.jpg'} alt='woman wearing black ankle boots'/>Trendy boots</div>
+         <div className='bottom-last-div-pic'><img src={'./assets/w-oxfordshoes.jpg'} alt=''/>See our selection of flats</div>
         </div>
       </div>
       </div>
