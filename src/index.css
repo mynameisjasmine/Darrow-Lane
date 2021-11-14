@@ -727,7 +727,87 @@ img {
   margin-right: 50px;
 }
 
+/* sale */
+.sale-main {
+  display: flex;
+}
 
+.sale-title {
+  /* border: 2px solid red; */
+  margin: 50px 0 0 60px;
+  font-size: 26px;
+}
+
+.sale-question-div {
+  /* border: 2px solid red; */
+  margin: 140px 0 0 220px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.sale-pic-div {
+  /* border: 2px solid red; */
+  display: flex;
+  margin: 50px 0 0 -30px;
+  justify-content:space-evenly;
+  
+}
+
+.salemenu {
+  border-top: 2px solid lightgray;
+  border-bottom: 2px solid lightgray;
+  width: 150px;
+  height: 430px;
+  margin: 70px 0 0 25px;
+}
+
+.sale-menu-text {
+  margin-bottom: 40px;
+}
+
+.w-sale-text {
+  /* border: 2px solid red; */
+  font-weight: bold;
+  margin:40px 0 40px 0;
+}
+
+.m-sale-div {
+  margin:40px 0 90px 0;
+  height: 220px;
+  border-bottom: 2px solid lightgray;
+}
+
+.m-sale-text {
+  /* border: 2px solid red; */
+  font-weight: bold;
+  margin: 65px 0 40px 0;
+  
+}
+
+.sale-active-parent {
+  /* border: 2px solid red; */
+  /* margin-left: -22px; */
+  display: flex;
+  justify-content: space-between;
+}
+
+.sale-active-div {
+  margin: 30px 0 50px 0;
+  width: 380px;
+  height: 540px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.sale-bottom-div {
+  /* border: 2px solid red; */
+  display: flex;
+  width: 1000px;
+  height: 350px;
+  margin: 35px 0 160px 0;
+  text-align: center;
+  font-weight: bold;
+}
 
 
 .footer {
