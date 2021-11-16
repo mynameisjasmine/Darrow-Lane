@@ -7,18 +7,20 @@ const Sale = () => {
       
       <div className='salemenu'>
        <p className='w-sale-text'>Women's Sale</p>
-       <p className='sale-menu-text'>Shirts</p>
+       <p className='sale-menu-text'>Tops</p>
+       <p className='sale-menu-text'>Dresses</p>
+       <p className='sale-menu-text'>Skirts</p>
        <p className='sale-menu-text'>Pants</p>
-       <p className='sale-menu-text'>Blazers</p>
-       <p className='sale-menu-text'>Socks</p>
-       <p className='sale-menu-text'>Active Tops</p>
-       <p className='sale-menu-text'>Active Bottoms</p>
+       <p className='sale-menu-text'>Shoes</p>
+       <p className='sale-menu-text'>Accessories</p>
+       {/* <p className='sale-menu-text'>Active Bottoms</p> */}
   
        <div className='m-sale-div'>
        <p className='m-sale-text'>Men's Sale</p>
-       <p className='sale-menu-text'>Sneakers</p>
-       <p className='sale-menu-text'>Dress Shoes</p>
-       <p className='sale-menu-text'>Loafers</p>
+       <p className='sale-menu-text'>Shirts</p>
+       <p className='sale-menu-text'>Pants</p>
+       <p className='sale-menu-text'>Shoes</p>
+       <p className='sale-menu-text'>Accessories</p>
         </div>
   
        </div>
