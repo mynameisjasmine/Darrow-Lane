@@ -41,9 +41,29 @@ const Sale = () => {
         <div className='fit-div'>Keeping fit while being fashionable </div>
   
         <div className='sale-active-parent'>
-          <div className='sale-active-div'><img src={'./assets/mainmensactive.jpg'} alt=''/>Activewear</div>
-          <div className='sale-active-div'><img src={'./assets/mainmensshoes.jpg'} alt=''/>Sneakers & Dress Shoes</div>
+          <div className='sale-active-div'><img src={'./assets/w-sale-blazer.jpg'} alt=''/>
+          <p>Tahari Double Breasted Blazer</p>
+          <p className='org-price'>originally $130.00</p>
+          Sale <span className='sale'>$89.99</span></div>
+
+          <div className='sale-active-div'><img src={'./assets/m-sale-sneaker.jpg'} alt=''/>
+          <p>Nike x Off-White sneakers</p>
+          <p className='org-price'>originally $59.99</p>
+          Sale <span className='sale'>$19.99</span></div>
+
+          <div className='sale-active-div'><img src={'./assets/m-sale-camelcoat.jpg'} alt=''/>
+          <p>Hugo Boss Camel Coat</p>
+          <p className='org-price'>originally $370.99</p>
+          Sale <span className='sale'>$299.99</span></div>
+
+          <div className='sale-active-div'><img src={'./assets/sale-tan-purse.jpg'} alt=''/>
+          <p>Brunello Cucinelli Handbag</p>
+          <p className='org-price'>originally $520.00</p>
+          Sale <span className='sale'>$410.00</span></div>
+
         </div>
+
+        
          <div className='style-text'>Ready, Set, Style!</div>
         <div className='sale-bottom-div'>
          <div className='bottom-div-pics'><img src={'./assets/menslounge.png'} alt=''/>Casual Weekends</div>
