@@ -38,8 +38,57 @@ const Sale = () => {
         <div className='circle-pic'><img src={'./assets/accsale.png'} alt='brown hat and sunglasses'/>Accessories</div>
         </div>
   
-        <div className='fit-div'>Keeping fit while being fashionable </div>
+        {/* <div className='fit-div'>Keeping fit while being fashionable </div> */}
   
+        <div className='sale-active-parent'>
+          <div className='sale-active-div'><img src={'./assets/w-sale-blazer2.jpg'} alt=''/>
+          <p>Tahari Blazer</p>
+          <p className='org-price'>originally $130.00</p>
+          Sale <span className='sale'>$89.99</span></div>
+
+          <div className='sale-active-div'><img src={'./assets/m-sale-sneaker.jpg'} alt=''/>
+          <p>Nike x Off-White sneakers</p>
+          <p className='org-price'>originally $59.99</p>
+          Sale <span className='sale'>$19.99</span></div>
+
+          <div className='sale-active-div'><img src={'./assets/m-sale-camelcoat.jpg'} alt=''/>
+          <p>Hugo Boss Camel Coat</p>
+          <p className='org-price'>originally $370.99</p>
+          Sale <span className='sale'>$299.99</span></div>
+
+          <div className='sale-active-div'><img src={'./assets/sale-tan-purse.jpg'} alt=''/>
+          <p>Brunello Cucinelli Handbag</p>
+          <p className='org-price'>originally $520.00</p>
+          Sale <span className='sale'>$410.00</span></div>
+
+        </div>
+
+         {/* middle div */}
+        <div className='sale-active-parent'>
+          <div className='sale-active-div'><img src={'./assets/sale-leather-jkt.jpg'} alt='woman wearing black leather jacket'/>
+          <p>BCBG Cropped Leather Jacket</p>
+          <p className='org-price'>originally $130.00</p>
+          Sale <span className='sale'>$89.99</span></div>
+
+          <div className='sale-active-div'><img src={'./assets/sale-tshirts.jpg'} alt='cotton crew neck t-shirts'/>
+          <p>Hanes Crew Neck T-Shirts</p>
+          <p className='org-price'>originally $29.99</p>
+          Sale <span className='sale'>$19.99</span></div>
+
+          <div className='sale-active-div'><img src={'./assets/w-sale-straightjeans.jpg'} alt='woman wearing straight leg jeans'/>
+          <p>Levi's Straight Leg Jeans</p>
+          <p className='org-price'>originally $60.99</p>
+          Sale <span className='sale'>$39.99</span></div>
+
+          <div className='sale-active-div'><img src={'./assets/sale-sunglasses.jpg'} alt='black sunglasses'/>
+          <p>Ray-Ban Sunglasses</p>
+          <p className='org-price'>originally $220.00</p>
+          Sale <span className='sale'>$175.00</span></div>
+
+        </div>
+
+        {/* bottom div */}
+
         <div className='sale-active-parent'>
           <div className='sale-active-div'><img src={'./assets/w-sale-blazer.jpg'} alt=''/>
           <p>Tahari Double Breasted Blazer</p>
