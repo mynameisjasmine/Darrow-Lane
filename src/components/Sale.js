@@ -90,25 +90,25 @@ const Sale = () => {
         {/* bottom div */}
 
         <div className='sale-active-parent'>
-          <div className='sale-active-div'><img src={'./assets/w-sale-blazer.jpg'} alt=''/>
-          <p>Tahari Double Breasted Blazer</p>
-          <p className='org-price'>originally $130.00</p>
-          Sale <span className='sale'>$89.99</span></div>
+          <div className='sale-active-div'><img src={'./assets/m-sale-tanshirt.jpg'} alt='man wearing tan jersey'/>
+          <p>Theory Cotton Jersey</p>
+          <p className='org-price'>originally $60.00</p>
+          Sale <span className='sale'>$39.99</span></div>
 
-          <div className='sale-active-div'><img src={'./assets/m-sale-sneaker.jpg'} alt=''/>
-          <p>Nike x Off-White sneakers</p>
-          <p className='org-price'>originally $59.99</p>
-          Sale <span className='sale'>$19.99</span></div>
+          <div className='sale-active-div'><img src={'./assets/w-sale-leathertop.jpg'} alt='woman wearing tan and black leather top'/>
+          <p>Maje Leather Shirt</p>
+          <p className='org-price'>originally $159.99</p>
+          Sale <span className='sale'>$80.99</span></div>
 
-          <div className='sale-active-div'><img src={'./assets/m-sale-camelcoat.jpg'} alt=''/>
-          <p>Hugo Boss Camel Coat</p>
-          <p className='org-price'>originally $370.99</p>
-          Sale <span className='sale'>$299.99</span></div>
+          <div className='sale-active-div'><img src={'./assets/sale-jwpurse.jpg'} alt='light brown purse'/>
+          <p>JW Anderson Purse</p>
+          <p className='org-price'>originally $109.00</p>
+          Sale <span className='sale'>$70.99</span></div>
 
-          <div className='sale-active-div'><img src={'./assets/sale-tan-purse.jpg'} alt=''/>
-          <p>Brunello Cucinelli Handbag</p>
-          <p className='org-price'>originally $520.00</p>
-          Sale <span className='sale'>$410.00</span></div>
+          <div className='sale-active-div'><img src={'./assets/sale-chooshoes.jpg'} alt=''/>
+          <p>Jimmy Choo Heels</p>
+          <p className='org-price'>originally $300.00</p>
+          Sale <span className='sale'>$210.00</span></div>
 
         </div>
 
