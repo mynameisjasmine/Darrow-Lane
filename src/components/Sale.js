@@ -113,13 +113,13 @@ const Sale = () => {
         </div>
 
         
-         <div className='style-text'>Ready, Set, Style!</div>
+         {/* <div className='style-text'>Ready, Set, Style!</div>
         <div className='sale-bottom-div'>
          <div className='bottom-div-pics'><img src={'./assets/menslounge.png'} alt=''/>Casual Weekends</div>
          <div className='bottom-div-pics'><img src={'./assets/menswhitetee.jpg'} alt=''/>The Perfect White Tee</div>
          <div className='bottom-div-pics'><img src={'./assets/mensouterwear.jpg'} alt=''/>Men's Outerwear</div>
          <div className='bottom-last-div-pic'><img src={'./assets/menscasual.jpg'} alt=''/>Business Casual Style</div>
-        </div>
+        </div> */}
       </div>
       </div>
     </div>
