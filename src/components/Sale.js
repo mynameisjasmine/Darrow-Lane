@@ -107,8 +107,8 @@ const Sale = () => {
 
           <div className='sale-active-div'><img src={'./assets/sale-chooshoes.jpg'} alt=''/>
           <p>Jimmy Choo Heels</p>
-          <p className='org-price'>originally $300.00</p>
-          Sale <span className='sale'>$210.00</span></div>
+          <p className='org-price'>originally $330.00</p>
+          Sale <span className='sale'>$220.00</span></div>
 
         </div>
 
