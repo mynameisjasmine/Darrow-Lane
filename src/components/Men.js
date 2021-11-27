@@ -41,7 +41,7 @@ const Men = () => {
 
       <div className='mens-active-parent'>
         <div className='mens-active-div'><img src={'./assets/mainmensactive.jpg'} alt=''/>Activewear</div>
-        <div className='mens-active-div'><img src={'./assets/mainmensshoes.jpg'} alt=''/>Sneakers & Dress Shoes</div>
+        <div className='mens-active-div'><img src={'./assets/mainmensshoes.jpg'} alt=''/>Sneakers</div>
       </div>
        <div className='style-text'>Ready, Set, Style!</div>
       <div className='mens-bottom-div'>
