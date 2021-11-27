@@ -392,8 +392,9 @@ img {
 }
 
 .mens-active-div {
+  /* border: 2px solid red; */
   margin: 30px 0 50px 0;
-  width: 390px;
+  width: 420px;
   height: 400px;
   text-align: center;
   font-weight: bold;
