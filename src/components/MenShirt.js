@@ -40,22 +40,22 @@ const MenShirt = () => {
         {/* <div className='fit-div'>Keeping fit while being fashionable </div> */}
   
         <div className='shirts-active-parent'>
-          <div className='shirts-active-div'><img src={'./assets/w-sale-blazer2.jpg'} alt=''/>
+          <div className='shirts-active-div'><img src={'./assets/shirts-men1.jpg'} alt=''/>
           <p>Tahari Blazer</p>
           <p className='org-price'>originally $130.00</p>
           Sale <span className='sale'>$89.99</span></div>
 
-          <div className='shirts-active-div'><img src={'./assets/m-sale-sneaker.jpg'} alt=''/>
+          <div className='shirts-active-div'><img src={'./assets/shirts-men2.jpg'} alt=''/>
           <p>Nike x Off-White sneakers</p>
           <p className='org-price'>originally $59.99</p>
           Sale <span className='sale'>$19.99</span></div>
 
-          <div className='shirts-active-div'><img src={'./assets/m-sale-camelcoat.jpg'} alt=''/>
+          <div className='shirts-active-div'><img src={'./assets/shirts-men3.jpg'} alt=''/>
           <p>Hugo Boss Camel Coat</p>
           <p className='org-price'>originally $370.99</p>
           Sale <span className='sale'>$299.99</span></div>
 
-          <div className='shirts-active-div'><img src={'./assets/sale-tan-purse.jpg'} alt=''/>
+          <div className='shirts-active-div'><img src={'./assets/shirts-men4.jpg'} alt=''/>
           <p>Brunello Cucinelli Handbag</p>
           <p className='org-price'>originally $520.00</p>
           Sale <span className='sale'>$410.00</span></div>

@@ -518,7 +518,7 @@ img {
 }
 
 .shirts-active-div {
-  border: 2px solid red;
+  /* border: 2px solid red; */
   margin: 30px 30px 50px 0;
   width: 260px;
   height: 360px;
