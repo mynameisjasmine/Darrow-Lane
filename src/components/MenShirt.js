@@ -41,7 +41,7 @@ const MenShirt = () => {
   
         <div className='shirts-active-parent'>
           <div className='shirts-active-div'><img src={'./assets/shirts-men1.jpg'} alt=''/>
-          <p>Tahari Blazer</p>
+          <p>Charter Club Dress Shirt</p>
           <p className='org-price'>originally $130.00</p>
           Sale <span className='sale'>$89.99</span></div>
 
