@@ -17,6 +17,7 @@ function App() {
       <div className='border'>Free Shipping with $50 purchase or free Store Pickup</div>
       
       <Navigation />
+      
       <div className='footer'>
       <Footer />
       </div>

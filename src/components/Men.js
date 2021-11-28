@@ -1,4 +1,6 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
+// import MenShirt from './MenShirt';
 
 const Men = () => {
  return (
@@ -8,7 +10,7 @@ const Men = () => {
       
     <div className='mensmenu'>
      <p className='m-clothing-text'>Men's Clothing</p>
-     <p className='mens-menu-text'>Shirts</p>
+     <Link to='/menshirt' className='menu-link'><p className='mens-menu-text'>Shirts</p></Link>
      <p className='mens-menu-text'>Pants</p>
      <p className='mens-menu-text'>Blazers</p>
      <p className='mens-menu-text'>Socks</p>
@@ -31,7 +33,7 @@ const Men = () => {
       <div className='question-div'>WHAT ARE YOU SHOPPING FOR TODAY?</div>
 
       <div className='mens-pic-div'>
-      <div className='circle-pic'><img src={'./assets/shirts.png'} alt=''/>Shirts</div>
+     <Link to='menshirt' className='menu-link'> <div className='circle-pic'><img src={'./assets/shirts.png'} alt=''/>Shirts</div></Link>
       <div className='circle-pic'><img src={'./assets/pants.png'} alt=''/>Pants</div>
       <div className='circle-pic'><img src={'./assets/blazers.png'} alt=''/>Blazers</div>
       <div className='circle-pic'><img src={'./assets/sock.png'} alt=''/>Socks</div>
@@ -52,7 +54,7 @@ const Men = () => {
       </div>
     </div>
     </div>
-
+    {/* <MenShirt/> */}
    </div> 
  
  )
