@@ -6,6 +6,7 @@ import App from './App';
 import DarrowLane from './components/DarrowLane';
 import About from './components/About';
 import Men from './components/Men';
+import MenShirt from './components/MenShirt';
 import Women from './components/Women';
 import Shoes from './components/Shoes';
 import Accessories from './components/Accessories';
@@ -20,6 +21,7 @@ ReactDOM.render(
         <Route exact path='/' component={DarrowLane}/>
         <Route exact path='/about' component={About}/>
         <Route exact path='/men' component={Men}/>
+        <Route exact path='/menshirt' component={MenShirt}/>
         <Route exact path='/women' component={Women}/>
         <Route exact path='/shoes' component={Shoes}/>
         <Route exact path='/accessories' component={Accessories}/>
