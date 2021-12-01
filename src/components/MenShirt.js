@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const MenShirt = () => {
   return (
@@ -7,10 +8,10 @@ const MenShirt = () => {
       
       <div className='shirtsmenu'>
        <p className='shirts-text'>Shirt Type</p>
-       <p className='shirts-menu-text'>Polo Shirts</p>
+       <Link to='menspolo' className='menu-link'><p className='shirts-menu-text'>Polo Shirts</p></Link>
        <p className='shirts-menu-text'>Dress Shirts</p>
        <p className='shirts-menu-text'>T-Shirts</p>
-       <p className='shirts-menu-text'>Jerseys</p>
+       <p className='shirts-menu-text'>Hoodies</p>
        {/* <p className='shirts-menu-text'>Henleys</p> */}
        
   
@@ -34,7 +35,7 @@ const MenShirt = () => {
         <div className='circle-pic'><img src={'./assets/shirts-polo.png'} alt='gray polo shirt'/>Polo Shirts</div>
         <div className='circle-pic'><img src={'./assets/shirts-dress.png'} alt='dress shirts'/>Dress Shirts</div>
         <div className='circle-pic'><img src={'./assets/shirts-tee.png'} alt='t-shirts'/>T-Shirts</div>
-        <div className='circle-pic'><img src={'./assets/shirts-jersey.png'} alt='red sports jersey'/>Jerseys</div>
+        <div className='circle-pic'><img src={'./assets/shirts-hoodie.png'} alt='red sports jersey'/>Hoodies</div>
         </div>
   
         {/* <div className='fit-div'>Keeping fit while being fashionable </div> */}
