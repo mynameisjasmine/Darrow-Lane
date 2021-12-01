@@ -32,7 +32,7 @@ const MenShirt = () => {
   
         <div className='shirts-pic-div'>
         <div className='circle-pic'><img src={'./assets/shirts-polo.png'} alt='gray polo shirt'/>Polo Shirts</div>
-        <div className='circle-pic'><img src={'./assets/shirts-dress.png'} alt='dress shitrs'/>Dress Shirts</div>
+        <div className='circle-pic'><img src={'./assets/shirts-dress.png'} alt='dress shirts'/>Dress Shirts</div>
         <div className='circle-pic'><img src={'./assets/shirts-tee.png'} alt='t-shirts'/>T-Shirts</div>
         <div className='circle-pic'><img src={'./assets/shirts-jersey.png'} alt='red sports jersey'/>Jerseys</div>
         </div>
@@ -40,74 +40,74 @@ const MenShirt = () => {
         {/* <div className='fit-div'>Keeping fit while being fashionable </div> */}
   
         <div className='shirts-active-parent'>
-          <div className='shirts-active-div'><img src={'./assets/w-sale-blazer2.jpg'} alt=''/>
-          <p>Tahari Blazer</p>
-          <p className='org-price'>originally $130.00</p>
-          Sale <span className='sale'>$89.99</span></div>
+          <div className='shirts-active-div'><img src={'./assets/shirts-men1.jpg'} alt='man wearing white dress shirt'/>
+          <p>Charter Club Dress Shirt</p>
+          <p className='org-price'>$89.00</p>
+           </div>
 
-          <div className='shirts-active-div'><img src={'./assets/m-sale-sneaker.jpg'} alt=''/>
-          <p>Nike x Off-White sneakers</p>
-          <p className='org-price'>originally $59.99</p>
-          Sale <span className='sale'>$19.99</span></div>
+          <div className='shirts-active-div'><img src={'./assets/shirts-men2.jpg'} alt='man wearing white t-shirt'/>
+          <p>Adidas Crew Neck Shirt</p>
+          <p className='org-price'>$59.99</p>
+          </div>
 
-          <div className='shirts-active-div'><img src={'./assets/m-sale-camelcoat.jpg'} alt=''/>
-          <p>Hugo Boss Camel Coat</p>
-          <p className='org-price'>originally $370.99</p>
-          Sale <span className='sale'>$299.99</span></div>
+          <div className='shirts-active-div'><img src={'./assets/shirts-men3.jpg'} alt='man wearing black polo shirt'/>
+          <p>Polo Shirt</p>
+          <p className='org-price'>$60.99</p>
+          </div>
 
-          <div className='shirts-active-div'><img src={'./assets/sale-tan-purse.jpg'} alt=''/>
-          <p>Brunello Cucinelli Handbag</p>
-          <p className='org-price'>originally $520.00</p>
-          Sale <span className='sale'>$410.00</span></div>
+          <div className='shirts-active-div'><img src={'./assets/shirts-men4.jpg'} alt='man wearing blue button down shirt'/>
+          <p>Brooks Brothers Short-Sleeved Shirt</p>
+          <p className='org-price'>$50.00</p>
+          </div>
 
         </div>
 
          {/* middle div */}
         <div className='shirts-active-parent'>
-          <div className='shirts-active-div'><img src={'./assets/sale-leather-jkt.jpg'} alt='woman wearing black leather jacket'/>
-          <p>BCBG Cropped Leather Jacket</p>
-          <p className='org-price'>originally $130.00</p>
-          Sale <span className='sale'>$89.99</span></div>
+          <div className='shirts-active-div'><img src={'./assets/shirts-men5.jpg'} alt='woman wearing black leather jacket'/>
+          <p>Levi's Denim Shirt</p>
+          <p className='org-price'>$70.00</p>
+          </div>
 
-          <div className='shirts-active-div'><img src={'./assets/sale-tshirts.jpg'} alt='cotton crew neck t-shirts'/>
-          <p>Hanes Crew Neck T-Shirts</p>
-          <p className='org-price'>originally $29.99</p>
-          Sale <span className='sale'>$19.99</span></div>
+          <div className='shirts-active-div'><img src={'./assets/shirts-men6.jpg'} alt='cotton crew neck t-shirts'/>
+          <p>Champion Hoodie</p>
+          <p className='org-price'>$69.99</p>
+          </div>
 
-          <div className='shirts-active-div'><img src={'./assets/w-sale-straightjeans.jpg'} alt='woman wearing straight leg jeans'/>
-          <p>Levi's Straight Leg Jeans</p>
-          <p className='org-price'>originally $60.99</p>
-          Sale <span className='sale'>$39.99</span></div>
+          <div className='shirts-active-div'><img src={'./assets/shirts-men7.jpg'} alt='woman wearing straight leg jeans'/>
+          <p>Tommy Bahama Silk Shirt</p>
+          <p className='org-price'>$110.99</p>
+          </div>
 
-          <div className='shirts-active-div'><img src={'./assets/sale-sunglasses.jpg'} alt='black sunglasses'/>
-          <p>Ray-Ban Sunglasses</p>
-          <p className='org-price'>originally $220.00</p>
-          Sale <span className='sale'>$175.00</span></div>
+          <div className='shirts-active-div'><img src={'./assets/shirts-men8.jpg'} alt='black sunglasses'/>
+          <p>Hurley Striped Crew Neck</p>
+          <p className='org-price'>$50.00</p>
+          </div>
 
         </div>
 
         {/* bottom div */}
 
         <div className='shirts-active-parent'>
-          <div className='shirts-active-div'><img src={'./assets/m-sale-tanshirt.jpg'} alt='man wearing tan jersey'/>
-          <p>Theory Cotton Jersey</p>
-          <p className='org-price'>originally $60.00</p>
-          Sale <span className='sale'>$39.99</span></div>
+          <div className='shirts-active-div'><img src={'./assets/shirts-men9.jpg'} alt='man wearing tan shirt'/>
+          <p>Theory Cotton Shirt</p>
+          <p className='org-price'>$65.00</p>
+          </div>
 
-          <div className='shirts-active-div'><img src={'./assets/w-sale-leathertop.jpg'} alt='woman wearing tan and black leather top'/>
-          <p>Maje Leather Shirt</p>
-          <p className='org-price'>originally $159.99</p>
-          Sale <span className='sale'>$80.99</span></div>
+          <div className='shirts-active-div'><img src={'./assets/shirts-men10.jpg'} alt='man wearing navy shirt'/>
+          <p>Navy Cotton Dress Shirt</p>
+          <p className='org-price'>$89.99</p>
+          </div>
 
-          <div className='shirts-active-div'><img src={'./assets/sale-jwpurse.jpg'} alt='light brown purse'/>
-          <p>JW Anderson Purse</p>
-          <p className='org-price'>originally $109.00</p>
-          Sale <span className='sale'>$70.99</span></div>
+          <div className='shirts-active-div'><img src={'./assets/shirts-men11.jpg'} alt='man wearing red dress shirt'/>
+          <p>Charter Club Dress Shirt</p>
+          <p className='org-price'>$59.00</p>
+          </div>
 
-          <div className='shirts-active-div'><img src={'./assets/sale-chooshoes.jpg'} alt=''/>
-          <p>Jimmy Choo Heels</p>
-          <p className='org-price'>originally $330.00</p>
-          Sale <span className='sale'>$220.00</span></div>
+          <div className='shirts-active-div'><img src={'./assets/shirts-men12.jpg'} alt='man wearing floral shirt'/>
+          <p>Bahama Floral Shirt</p>
+          <p className='org-price'>$80.00</p>
+          </div>
 
         </div>
 
