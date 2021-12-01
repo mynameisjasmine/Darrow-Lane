@@ -887,6 +887,10 @@ img {
   font-weight: bold;
 }
 
+.polo-main {
+  display: flex;
+}
+
 
 .footer {
   position: absolute;
