@@ -512,7 +512,7 @@ img {
 .shirts-active-parent {
   /* border: 2px solid red; */
   height: 570px;
-  /* margin-left: -22px; */
+  margin-left: -92px;
   display: flex;
   justify-content: space-between;
 }
