@@ -32,7 +32,7 @@ const MenShirt = () => {
         <div className='shirts-question-div'></div>
   
         <div className='shirts-pic-div'>
-        <div className='circle-pic'><img src={'./assets/shirts-polo.png'} alt='gray polo shirt'/>Polo Shirts</div>
+        <Link to='menspolo' className='menu-link'><div className='circle-pic'><img src={'./assets/shirts-polo.png'} alt='gray polo shirt'/>Polo Shirts</div></Link>
         <div className='circle-pic'><img src={'./assets/shirts-dress.png'} alt='dress shirts'/>Dress Shirts</div>
         <div className='circle-pic'><img src={'./assets/shirts-tee.png'} alt='t-shirts'/>T-Shirts</div>
         <div className='circle-pic'><img src={'./assets/shirts-hoodie.png'} alt='red sports jersey'/>Hoodies</div>
