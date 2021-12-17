@@ -526,6 +526,53 @@ img {
   font-weight: bold;
 }
 
+/* men polo shirts */
+.polo-main {
+  display: flex;
+}
+
+.polo-title {
+  /* border: 2px solid red; */
+  margin: 50px 0 0 60px;
+  font-size: 26px;
+}
+
+.polomenu {
+  /* border: 2px solid red; */
+  border-top: 2px solid lightgray;
+  border-bottom: 2px solid lightgray;
+  width: 150px;
+  height: 430px;
+  margin: 70px 0 0 25px;
+}
+
+.polo-text {
+  /* border: 2px solid red; */
+  font-weight: bold;
+  margin:40px 0 40px 0;
+}
+
+.polo-menu-text {
+  /* border: 2px solid red; */
+  margin-bottom: 40px;
+}
+
+.polo-active-parent {
+  /* border: 2px solid red; */
+  height: 570px;
+  margin: 80px 0 0 -32px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.polo-active-div {
+  /* border: 2px solid red; */
+  margin: 30px 30px 50px 0;
+  width: 260px;
+  height: 360px;
+  text-align: center;
+  font-weight: bold;
+}
 
 /* women */
 
@@ -887,9 +934,6 @@ img {
   font-weight: bold;
 }
 
-.polo-main {
-  display: flex;
-}
 
 
 .footer {
